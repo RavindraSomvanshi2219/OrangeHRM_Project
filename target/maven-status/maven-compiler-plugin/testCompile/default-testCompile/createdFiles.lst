@@ -1,0 +1,14 @@
+com\OrangeHRM\TestData\ReadConfig.class
+com\OrangeHRM\TestCases\TC_CreatePIMTest_002.class
+com\OrangeHRM\PageObjects\AddEmployeePage.class
+com\OrangeHRM\PageObjects\EmpPersonalDetailPage.class
+com\OrangeHRM\PageObjects\PIMHomePage.class
+com\OrangeHRM\Utilities\SeleniumUtility.class
+com\OrangeHRM\Utilities\ExcelUtility.class
+com\OrangeHRM\PageObjects\HomePage.class
+com\OrangeHRM\PageObjects\LoginPage.class
+com\OrangeHRM\TestCases\TC_UpdatePIMTest_003.class
+com\OrangeHRM\Utilities\ExtentReport.class
+com\OrangeHRM\TestCases\BaseClass.class
+com\OrangeHRM\TestCases\TC_DeletePIMTest_004.class
+com\OrangeHRM\TestCases\TC_LoginTest_001.class
